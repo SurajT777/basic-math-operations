@@ -22,3 +22,8 @@ A Python script that:
 - Takes an integer input from the user.
 - Checks whether the number is even or odd using an if-else statement.
 - Displays the result.
+
+# Task 4 sum from 1 to 50 using for loop
+
+- Uses a for loop to iterate over numbers 1 to 50.
+- Calculates and displays the sum.
