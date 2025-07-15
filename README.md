@@ -27,3 +27,9 @@ A Python script that:
 
 - Uses a for loop to iterate over numbers 1 to 50.
 - Calculates and displays the sum.
+
+# Task 5 Factorial number
+
+- Defines a function to calculate factorial using a loop.
+
+- Prompts the user to enter a number and displays the factorial result.
