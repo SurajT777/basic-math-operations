@@ -15,3 +15,10 @@ A Python script that:
 - Prints a personalized welcome message.
 
 # full_name_greeting.py
+
+
+# Task 3 Even or odd
+
+- Takes an integer input from the user.
+- Checks whether the number is even or odd using an if-else statement.
+- Displays the result.
